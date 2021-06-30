@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusStop_Esp8266</string>
+    <string name="CNxianshi">显 示</string>
+    <string name="CNbaozhan">报 站</string>
+    <string name="CNbaozhan_Mode">报站模式</string>
+    <string name="CNhuanzhan_Mode">换站模式</string>
+    <string name="CNDebug_Mode">DEBUG模式</string>
+    <string name="Author">By.Klein_Blue</string>
+</resources>
